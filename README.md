@@ -2,7 +2,7 @@
 Console application for obtaining the version information of an assembly.
 
 ## Command line usage
-Requires a reference to McMaster's fork of the [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) Nuget package.
+(Requires a reference to McMaster's fork of the [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) Nuget package.)
 ```
 C:\>filever --help
 Gets the Version Info for a file.
